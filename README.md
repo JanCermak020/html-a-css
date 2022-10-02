@@ -1,1 +1,1 @@
-grafickekarty.euweb.cz
+http://grafickekarty.euweb.cz
