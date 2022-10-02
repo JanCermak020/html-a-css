@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(36, 36, 36);
+}
+h2,a,p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 300%;
+    flex-wrap: wrap;
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size: 600%;
+    background-size: contain;
+    margin-top: 0%;
+}
+img{
+    position: relative;
+    float:right;
+    padding: auto;
+    margin: auto;
+}
+a{
+    font-size: 100%;
+}
+a:hover{
+    color:greenyellow;
+    text-decoration:none;
+}
+p{
+    font-size: 100%;
+    display: block;
+}
+
+@media(max-width: 1623px){
+    p{
+        position: absolute;
+    }
+    }
+@media(max-width: 1199px){
+    img{
+        display: none;
+    }
+    }
